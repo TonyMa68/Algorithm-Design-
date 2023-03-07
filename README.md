@@ -1,3 +1,3 @@
-# Soluciones-Klenberg
-Algorithm Design (Kleinberg Tardos 2005) - Solutions
+# Solutions
+Algorithm Design 答案
 
